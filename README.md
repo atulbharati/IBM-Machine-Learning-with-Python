@@ -4,12 +4,12 @@ Now that you have been equipped with the skills to use different Machine Learnin
 
 You load a historical dataset from previous loan applications, clean the data, and apply different classification algorithms on the data. You are expected to use the following algorithms to build your models:
 
--k-Nearest Neighbour
--Decision Tree
--Support Vector Machine
--Logistic Regression
+  - k-Nearest Neighbors
+  - Decision Tree
+  - Support Vector Machine
+  - Logistic Regression
 
 The results are reported as the accuracy of each classifier, using the following metrics when these are applicable:
--Jaccard Index
--F1-score
--Log Loss
+  - Jaccard Index
+  - F1-score
+  - Log Loss
